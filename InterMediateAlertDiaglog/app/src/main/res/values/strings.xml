@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alert Diaglog</string>
+    <string name="err_name">Name is required </string>
+    <string name="err_phone">Phone no. is required </string>
+    <string name="err_dob">Date of  birth is required </string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="name">Name</string>
+</resources>
